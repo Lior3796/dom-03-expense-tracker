@@ -7,7 +7,7 @@
 
 ## איך זה צריך להיראות
 
-🎬 **[צפו בסרטון הדגמה של האתר המוכן](https://github.com/Lior3796/dom-03-expense-tracker/raw/main/demo.mp4)** - כך האתר צריך להתנהג כשמסיימים את כל השלבים.
+🎬 **[צפו בסרטון הדגמה של האתר המוכן](https://cdn.jsdelivr.net/gh/Lior3796/dom-03-expense-tracker@main/demo.mp4)** - כך האתר צריך להתנהג כשמסיימים את כל השלבים.
 
 ## איך מתחילים
 
